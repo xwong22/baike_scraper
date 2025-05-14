@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Basic Usage
+### Basic Usage (NOT RECOMMENDED, see [Selenium Scraper](#selenium-scraper) below)
 
 ```bash
 python baidu_scraper.py "https://baike.baidu.com/item/词条1" "https://baike.baidu.com/item/词条2"
