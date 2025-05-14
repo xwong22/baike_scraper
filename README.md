@@ -1,5 +1,6 @@
 # Baidu Baike Scraper
 
+Only for educational and research purposes! Not for-profit!
 A Python tool to scrape content from Baidu Baike (百度百科) pages and save them in markdown and JSON formats.
 
 ## Features
